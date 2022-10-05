@@ -1,0 +1,21 @@
+{
+  "name": "cmlabs-backend-internship-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizz_buzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harphobia/cmlabs-backend-internship-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harphobia/cmlabs-backend-internship-test/issues"
+  },
+  "homepage": "https://github.com/harphobia/cmlabs-backend-internship-test#readme",
+  "type": "commonjs"
+}
