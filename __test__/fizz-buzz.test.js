@@ -14,7 +14,7 @@ describe('Mengecek nilai FizzBuzz', () => {
             if(i%3 === 0 && i%5 === 0) return expect(fizz_buzz(i)).toBe("FizzBuzz")
 
             if(i%3 === 0) return expect(fizz_buzz(i)).toBe("Fizz")
-            if(i%35=== 0) return expect(fizz_buzz(i)).toBe("Buzz")
+            if(i%35 === 0) return expect(fizz_buzz(i)).toBe("Buzz")
         }
     });
 });
